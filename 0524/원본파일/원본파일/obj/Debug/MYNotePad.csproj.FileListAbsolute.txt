@@ -1,0 +1,11 @@
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\원본파일\원본파일\bin\Debug\원본파일.exe.config
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\원본파일\원본파일\bin\Debug\원본파일.exe
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\원본파일\원본파일\bin\Debug\원본파일.pdb
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\원본파일\원본파일\obj\Debug\MYNotePad.csproj.AssemblyReference.cache
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\원본파일\원본파일\obj\Debug\MYNotePad.csproj.SuggestedBindingRedirects.cache
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\원본파일\원본파일\obj\Debug\원본파일.Form1.resources
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\원본파일\원본파일\obj\Debug\원본파일.Properties.Resources.resources
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\원본파일\원본파일\obj\Debug\MYNotePad.csproj.GenerateResource.cache
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\원본파일\원본파일\obj\Debug\MYNotePad.csproj.CoreCompileInputs.cache
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\원본파일\원본파일\obj\Debug\원본파일.exe
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\원본파일\원본파일\obj\Debug\원본파일.pdb
