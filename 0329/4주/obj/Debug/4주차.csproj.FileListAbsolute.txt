@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\4주\4주\bin\Debug\4주.exe.config
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\4주\4주\bin\Debug\4주.exe
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\4주\4주\bin\Debug\4주.pdb
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\4주\4주\obj\Debug\4주차.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\4주\4주\obj\Debug\4주차.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\4주\4주\obj\Debug\4주차.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\4주\4주\obj\Debug\4주.exe
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\4주\4주\obj\Debug\4주.pdb
