@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\0412\0412\obj\Debug\0412.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\0412\0412\obj\Debug\0412.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\0412\0412\obj\Debug\0412.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\0412\0412\bin\Debug\0412.exe.config
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\0412\0412\bin\Debug\0412.exe
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\0412\0412\bin\Debug\0412.pdb
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\0412\0412\obj\Debug\0412.exe
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\0412\0412\obj\Debug\0412.pdb
