@@ -1,0 +1,11 @@
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\발표준비\발표준비\bin\Debug\발표준비.exe.config
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\발표준비\발표준비\bin\Debug\발표준비.exe
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\발표준비\발표준비\bin\Debug\발표준비.pdb
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\발표준비\발표준비\obj\Debug\발표준비.csproj.AssemblyReference.cache
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\발표준비\발표준비\obj\Debug\발표준비.csproj.SuggestedBindingRedirects.cache
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\발표준비\발표준비\obj\Debug\발표준비.Form1.resources
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\발표준비\발표준비\obj\Debug\발표준비.Properties.Resources.resources
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\발표준비\발표준비\obj\Debug\발표준비.csproj.GenerateResource.cache
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\발표준비\발표준비\obj\Debug\발표준비.csproj.CoreCompileInputs.cache
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\발표준비\발표준비\obj\Debug\발표준비.exe
+D:\김도균\3학년 1학기\객체지향 프로그래밍 - 김주현\기말 과제\발표준비\발표준비\obj\Debug\발표준비.pdb
